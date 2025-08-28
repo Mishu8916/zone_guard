@@ -1,0 +1,19 @@
+{
+    "video_source": "video2.mp4",
+    "model_path": "yolov8n.pt",
+    "confidence_threshold": 0.5,
+    "tracking_distance_threshold": 50,
+    "log_file": "logs.csv",
+    "zones_file": "zones.json",
+    "detection_classes": {
+        "person": 0,
+        "car": 2,
+        "motorcycle": 3,
+        "bus": 5,
+        "truck": 7
+    },
+    "alert_enabled": true,
+    "alert_type": "console",
+    "save_video": false,
+    "video_output": "output.mp4"
+}

@@ -1,0 +1,10 @@
+Timestamp,ObjectID,Zone,Event,Class,Confidence
+2025-08-28 21:59:23,1,2,Entered,person,0.68088555
+2025-08-28 21:59:24,2,2,Entered,person,0.85204035
+2025-08-28 21:59:25,4,1,Entered,person,0.89107084
+2025-08-28 21:59:26,4,1,Exited,person,0.8928813
+2025-08-28 21:59:27,4,3,Entered,person,0.8541575
+2025-08-28 21:59:33,4,3,Exited,person,0.8504587
+2025-08-28 21:59:36,4,1,Entered,person,0.89868474
+2025-08-28 21:59:37,4,1,Exited,person,0.90237373
+2025-08-28 21:59:38,5,2,Entered,person,0.8316609
